@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HashlamApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Login Activity Objects -->
+        <string name="usernameLoginEditText">שם משתמש:</string>
+        <string name="passwordLoginEditText">סיסמא:</string>
+        <string name="loginBtn">התחבר</string>
+        <string name="emptyError">כל השדות חייבים להיות מלאים</string>
+        <string name="successLogin">התחברת בהצלחה!</string>
+        <string name="errorLogin">שם משתמש או סיסמא אינם נכונים</string>
+
+</resources>
